@@ -1,0 +1,58 @@
+Char	0	1	2	3	4	5	6	7
+Finish								
+A--Z			0x04¡X0x1D					
+								
+qwerty keypad 1--0			0x1E¡X0x27					
+qwerty keypad			0x28					
+Enter								
+esc			0x29					
+qwerty keypad¡ö			0x2A					
+Tab			0x2B					
+SAPCE			0x2C					
+qwerty keypad-			0x2D					
+qwerty keypad+			0x2E					
+{			0x2F					
+}			0x30					
+\			0x31					
+								
+;			0x33					
+¡¥			0x34					
+`			0x35					
+","			0x36					
+.			0x37					
+/			0x38					
+Capslock			0x39					
+F1¡XF12			0x3A¡X0x45					
+PriSc			0x46					
+Scroll Lock			0x47					
+Pause			0x48					
+Insert			0x49					
+Home			0x4A					
+Page up			0x4B					
+Delete			0x4C					
+End			0x4D					
+Page Down			0x4E					
+¡÷			0x4F					
+¡ö			0x50					
+¡õ			0x51					
+¡ô			0x52					
+Num Lock			0x53					
+/			0x54					
+*			0x55					
+-			0x56					
++			0x57					
+Numeric keypad			0x58					
+Enter								
+Numeric keypad			0x59¡X0x62					
+1¡X0								
+Numeric keypad dot			0x63					
+								
+N/A			0x65					
+left Ctrl	0x01							
+right Ctrl	0x10							
+left Shift	0x02							
+right Shift	0x20							
+left Alt	0x04							
+right Alt	0x40							
+left win	0x08							
+right win	0x80`							
